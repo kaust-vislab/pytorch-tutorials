@@ -1,6 +1,9 @@
-# PyTorch GPU tutorials
+# PyTorch tutorials
 
-Collection of Jupyter notebooks demonstrating best-practices for using PyTorch on GPU accelerated hardware.
+Collection of Jupyter notebooks demonstrating best-practices for using PyTorch on GPU accelerated hardware. 
+
+* Demonstrate end-to-end GPU accelerated ML workflow using PyTorch to train various DNN achitectures.
+* Demonstrate distributed, GPU accelerated training capable of scaling to clusters of GPUs.
 
 ## Using Conda
 
