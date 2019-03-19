@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaust-vislab/pytorch-tutorials/master?urlpath=lab)
+
 # PyTorch tutorials
 
 Collection of Jupyter notebooks demonstrating best-practices for using PyTorch on GPU accelerated hardware. 
