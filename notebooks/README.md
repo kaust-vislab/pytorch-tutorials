@@ -6,6 +6,7 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 In this tutorial, your goal is to correctly identify digits from the Kaggle MNIST dataset of tens of thousands of handwritten images.
 
 You can launch this tutorial in the cloud using [Binder](https://mybinder.org/) or [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb) by clicking the buttons below.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaust-vislab/pytorch-tutorials/master?filepath=notebooks%2Fmnist-tutorial.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github/kaust-vislab/pytorch-tutorials/blob/master/notebooks/mnist-tutorial.ipynb)
 
