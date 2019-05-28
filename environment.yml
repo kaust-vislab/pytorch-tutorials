@@ -1,4 +1,4 @@
-name: pytorch-gpu-tutorial
+name: null
 
 channels:
   - pytorch
@@ -14,5 +14,6 @@ dependencies:
   - pytorch
   - torchvision
   - fastai
+  - pip=19.1.*
   - pip:
     - kaggle==1.5.*
