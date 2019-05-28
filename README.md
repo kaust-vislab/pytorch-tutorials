@@ -12,13 +12,13 @@ Collection of Jupyter notebooks demonstrating best-practices for using PyTorch o
 Create the environment...
 
 ```bash
-$ conda env create --prefix ./conda-env --file environment.yml
+$ conda env create --prefix ./env --file environment.yml
 ```
 
 ...then activate the environment...
 
 ```bash
-$ conda activate ./conda-env
+$ conda activate ./env
 ```
 
 ...then launch the JupyterLab server.
