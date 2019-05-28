@@ -84,7 +84,8 @@ celerybeat-schedule
 # Environments
 .env
 .venv
-conda-env/
+conda-env/*
+!conda-env/.gitkeep
 env/
 venv/
 ENV/
