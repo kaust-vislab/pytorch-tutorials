@@ -1,0 +1,23 @@
+name: null
+
+channels:
+  - pytorch
+  - fastai
+  - defaults
+  - conda-forge
+
+dependencies:
+  - fastai=1.0.54
+  - h5py=2.9
+  - jupyterlab=1.0
+  - kaggle=1.5
+  - matplotlib=3.1
+  - pandas=0.24
+  - pip=19.1
+  - python=3.7
+  - pytorch=1.1
+  - scikit-learn=0.21
+  - torchvision=0.3
+  - pip:
+    - pretrainedmodels==0.7
+
